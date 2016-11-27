@@ -1,0 +1,27 @@
+
+
+/** HEADER */
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	height: 100px;
+	border: 0;
+}
+
+#nav-list{
+	margin-top: 10px;
+	background-color: #ff9900;
+}
+
+#nav-list a:hover{
+	background: #E7E7E7;
+}
+
+.section{
+	background-color: #cccc00;
+	margin-top: 20px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
