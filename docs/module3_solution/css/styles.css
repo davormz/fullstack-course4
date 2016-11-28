@@ -20,6 +20,7 @@
 .section{
 	background-color: #cccc00;
 	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus{
